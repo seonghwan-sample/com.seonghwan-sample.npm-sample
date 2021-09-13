@@ -1,0 +1,13 @@
+{
+	"name": "com.seonghwan-sample.npm-sample",
+	"displayName": "NPM Hosting Sample",
+	"vesion": "0.0.1",
+	"desciption": "this is a sample package to test how to host package on npm",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seonghwan-sample/com.seonghwan-sample.npm-sample"
+	},
+	"author": {
+		"name": "seonghwan sample"
+	}
+}
